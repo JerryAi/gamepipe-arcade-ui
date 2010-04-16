@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<gameconf>
+  <id>875689</id>
+  <name>Let's shooting love</name>
+  <keys>
+    <key1>
+      <origin>2</origin>
+      <correl>DOWN</correl>
+    </key1>
+    <key2>
+      <origin>4</origin>
+      <correl>LEFT</correl>
+    </key2>
+    <key1>
+      <origin>6</origin>
+      <correl>RIGHT</correl>
+    </key1>
+    <key2>
+      <origin>8</origin>
+      <correl>UP</correl>
+    </key2>
+  </keys>
+</gameconf>
+
+<gameconf>
+  <id>875681</id>
+  <name>fowlplay</name>
+  <keys>
+    <key1>
+      <origin>Q</origin>
+      <correl>LEFT</correl>
+    </key1>
+    <key2>
+      <origin>W</origin>
+      <correl>UP</correl>
+    </key2>
+    <key1>
+      <origin>E</origin>
+      <correl>DOWN</correl>
+    </key1>
+    <key2>
+      <origin>R</origin>
+      <correl>RIGHT</correl>
+    </key2>
+    <key2>
+      <origin>Z</origin>
+      <correl>D</correl>
+    </key2>
+  </keys>
+</gameconf>
+</config>
